@@ -1,5 +1,5 @@
 {
-  "name": "@philiprehberger/next-layout-components",
+  "name": "@philiprehberger/ts-next-layout-components",
   "version": "0.1.1",
   "description": "Layout primitives for Next.js and React apps - Page wrapper and Card component",
   "type": "module",
@@ -50,10 +50,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/philiprehberger/next-layout-components.git"
+    "url": "git+https://github.com/philiprehberger/ts-next-layout-components.git"
   },
-  "homepage": "https://github.com/philiprehberger/next-layout-components#readme",
-  "bugs": { "url": "https://github.com/philiprehberger/next-layout-components/issues" },
+  "homepage": "https://github.com/philiprehberger/ts-next-layout-components#readme",
+  "bugs": { "url": "https://github.com/philiprehberger/ts-next-layout-components/issues" },
   "author": "Philip Rehberger",
   "engines": { "node": ">=18.0.0" },
   "sideEffects": false
