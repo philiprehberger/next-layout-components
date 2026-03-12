@@ -1,11 +1,11 @@
-# @philiprehberger/ts-next-layout-components
+# @philiprehberger/next-layout-components
 
 Layout primitives for Next.js and React apps.
 
 ## Installation
 
 ```bash
-npm install @philiprehberger/ts-next-layout-components clsx
+npm install @philiprehberger/next-layout-components clsx
 ```
 
 ## Components
@@ -15,7 +15,7 @@ npm install @philiprehberger/ts-next-layout-components clsx
 Page wrapper with responsive padding and configurable max width.
 
 ```tsx
-import { Page } from '@philiprehberger/ts-next-layout-components';
+import { Page } from '@philiprehberger/next-layout-components';
 
 <Page maxWidth="xl">
   <h1>My Page</h1>
@@ -30,7 +30,7 @@ Max widths: `sm`, `md`, `lg`, `xl`, `2xl`, `full`
 Card container with optional title and hover effect.
 
 ```tsx
-import { Card } from '@philiprehberger/ts-next-layout-components';
+import { Card } from '@philiprehberger/next-layout-components';
 
 <Card title="Section Title" padding="lg" hoverable>
   <p>Card content</p>
