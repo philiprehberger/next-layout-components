@@ -1,5 +1,9 @@
 # @philiprehberger/next-layout-components
 
+[![CI](https://github.com/philiprehberger/next-layout-components/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/next-layout-components/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/@philiprehberger/next-layout-components.svg)](https://www.npmjs.com/package/@philiprehberger/next-layout-components)
+[![License](https://img.shields.io/github/license/philiprehberger/next-layout-components)](LICENSE)
+
 Layout primitives for Next.js and React apps.
 
 ## Installation
