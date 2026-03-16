@@ -1,6 +1,6 @@
 # @philiprehberger/next-layout-components
 
-[![CI](https://github.com/philiprehberger/next-layout-components/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/next-layout-components/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/next-layout-components/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/next-layout-components/actions/workflows/publish.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/next-layout-components.svg)](https://www.npmjs.com/package/@philiprehberger/next-layout-components)
 [![License](https://img.shields.io/github/license/philiprehberger/next-layout-components)](LICENSE)
 
@@ -39,6 +39,15 @@ import { Card } from '@philiprehberger/next-layout-components';
 <Card title="Section Title" padding="lg" hoverable>
   <p>Card content</p>
 </Card>
+```
+
+
+## Development
+
+```bash
+npm install
+npm run build
+npm test
 ```
 
 ## License
